@@ -40,7 +40,6 @@ node_modules
 build
 !test/qunit/build
 dist
-lib
 
 # Specific to plugin website branch
 .sass-cache
