@@ -48,7 +48,7 @@
     "gulp-util": "^3.0.7",
     "gulp-wrap": "^0.13.0",
     "jsdom": "^9.3.0",
-    "karma": "^1.1.0",
+    "karma": "^6.4.4",
     "karma-chrome-launcher": "^2.0.0",
     "karma-firefox-launcher": "^1.0.0",
     "karma-phantomjs-launcher": "^1.0.0",
@@ -61,7 +61,7 @@
     "phantomjs-prebuilt": "^2.1.7",
     "qunitjs": "^1.14.0",
     "requirejs": "^2.1.22",
-    "rollup": "~0.40.0",
+    "rollup": "~4.22.5",
     "run-sequence": "^1.1.5",
     "simple-html-tokenizer": "git+https://github.com/nfrasser/simple-html-tokenizer.git#04799f4638ec5ed903a4e5aa6e832269fa59be6b",
     "through2": "^2.0.1"
